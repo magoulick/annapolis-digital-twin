@@ -1,3 +1,9 @@
+"""
+Note: This script demonstrates the data processing methodology used in the research.
+The actual sample_data.csv contains real observations from the full dataset.
+Run this script to understand the processing pipeline, not to recreate the sample data.
+"""
+
 #!/usr/bin/env python3
 """
 Annapolis Digital Twin Data Processing Pipeline
