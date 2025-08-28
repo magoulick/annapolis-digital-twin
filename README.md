@@ -12,3 +12,9 @@ A Python-based environmental modeling tool for [brief project purpose].
    cd annapolis-digital-twin
    pip install -r requirements.txt
    docker-compose up
+
+
+## Data Availability
+- **Full Dataset (508,000 records)**: Available at https://doi.org/10.5281/zenodo.16982378
+- **Sample Data**: Located in `/data/sample_data.csv` for testing and development
+- **Data Processing**: See `/data/process_data.py` for preprocessing pipeline
